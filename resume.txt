@@ -1,0 +1,26 @@
+John Doe
+Email: john.doe@example.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Results-driven Software Engineer with 5+ years of experience designing, developing, and maintaining web applications. Skilled in Python, JavaScript, and cloud infrastructure. Passionate about building scalable, user-friendly solutions.
+
+EXPERIENCE
+Software Engineer, TechCorp Inc. (June 2020 – Present)
+- Led development of a customer-facing dashboard in React and Node.js, increasing user engagement by 30%
+- Designed and deployed microservices on AWS Lambda, reducing server costs by 20%
+- Collaborated with cross-functional teams to define, design, and ship new features
+
+Junior Developer, WebStart LLC (Jan 2018 – May 2020)
+- Built RESTful APIs in Python (Flask) to support mobile and web clients
+- Wrote unit and integration tests, improving code coverage from 60% to 85%
+- Assisted in migrating legacy systems to a modern Django framework
+
+EDUCATION
+B.S. in Computer Science, State University (2014 – 2018)
+
+SKILLS
+- Languages: Python, JavaScript, TypeScript  
+- Frameworks: React, Node.js, Django, Flask  
+- Tools: Git, Docker, AWS, PostgreSQL  

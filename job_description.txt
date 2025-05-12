@@ -1,0 +1,14 @@
+We are seeking a mid-level Software Engineer to join our dynamic product team. The ideal candidate will:
+
+- Design, develop, and maintain web applications using React and Node.js  
+- Collaborate with product managers and UX designers to deliver high-quality features  
+- Build and deploy microservices on AWS  
+- Write clean, maintainable code with thorough test coverage  
+- Participate in code reviews and mentor junior developers  
+
+Requirements:
+- 3+ years of professional software development experience  
+- Strong proficiency in JavaScript/TypeScript and React  
+- Experience with Python back-end frameworks (Django or Flask)  
+- Familiarity with cloud services (AWS, GCP, or Azure)  
+- Excellent problem-solving skills and communication abilities  
